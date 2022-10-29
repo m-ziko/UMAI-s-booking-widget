@@ -16,7 +16,7 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 [Follow these instructions to install Cypress.](https://on.cypress.io/guides/installing-and-running#section-installing)
 
-###2 .Run The PRoject 
+###  2 .Run The Project 
 This Command After Cypress installation to Run Cypress 
 
 ```
