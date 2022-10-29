@@ -5,6 +5,9 @@ This repo is about Automation framework using cypress with POM Design pattern
 ## Help + Testing
 
 The steps below will take you all the way through Cypress. It is assumed you have nothing installed except for node + git.
+Clone the project in your favourate Repo this command
+```
+ git clone (https://github.com/m-ziko/UMAI-s-booking-widget.git)
 
 **If you get stuck, here is more help:**
 
